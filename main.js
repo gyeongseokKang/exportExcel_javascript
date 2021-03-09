@@ -62,7 +62,7 @@ function createChart(id) {
           type: "scatter",
         },
       ],
-      { header: id }
+      { title: id }
     );
   }
 }
