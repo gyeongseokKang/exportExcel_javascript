@@ -17,3 +17,11 @@
 2. html2canvas - html의 특정 영역을 canvas로 그려주는 라이브러리, excel에는 일반 img 태그가 달린 파일을 넣을 수 없어서 변환이 필요.
 3. plotlyjs - 데이터 시각화를 위한 라이브러리, 사용할수록 매력적인 시각화 라이브러리로, 다양한 차트, 다양한 언어, 다양한 프레임워크를 지원.
 
+## 사용방법
+
+git clone 후 open live server로 확인(VSC 추천)
+
+## 결과
+
+![image](https://user-images.githubusercontent.com/61446585/110480657-140df280-812a-11eb-92b0-a1d9b971e30a.png)
+![image](https://user-images.githubusercontent.com/61446585/110480713-2556ff00-812a-11eb-94cf-1a8d4bd66d86.png)
