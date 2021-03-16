@@ -1,9 +1,17 @@
 # exportExcel_javascript
+<p align='center'>
+    <img src="https://img.shields.io/badge/Javscript-ES6-yellow?logo=javascript"/>
+    <img src="https://img.shields.io/badge/Plotly.js-v1.58.4-blue?logo=plotly">
+    <img src="https://img.shields.io/badge/excel.js-v4.2.0-green?logo=excel.js">
+    <img src="https://img.shields.io/badge/html2canvas.js-v1.0.0-green?logo=html2canvas">
+</p>
 
 * 기능 목표 : 대시보드에 있는 차트와 테이블을 Excel 파일로 떨궈주세요.
 * 세부 목표 : 차트와 테이블은 이미지로 넣되, 테이블의 경우 전체 데이터를 보여주세요
 * 구현 : 목표를 달성하기 위한 기본 테스트 레포.
 * 설명글 : https://all-dev-kang.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-image-data%EB%A5%BC-Excel%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-featexceljs
+
+
 
 ## 전체 로직
 
